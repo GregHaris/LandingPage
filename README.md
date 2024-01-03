@@ -1,2 +1,2 @@
-# Odin-s-Landing-Page-Project
+# TOP-LandingPage
 This is my solution of The Odin Project landing page project
